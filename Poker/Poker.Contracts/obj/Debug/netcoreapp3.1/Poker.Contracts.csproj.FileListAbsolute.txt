@@ -1,0 +1,10 @@
+C:\Users\denys\source\repos\Poker\Poker.Contracts\bin\Debug\netcoreapp3.1\Poker.Contracts.deps.json
+C:\Users\denys\source\repos\Poker\Poker.Contracts\bin\Debug\netcoreapp3.1\Poker.Contracts.dll
+C:\Users\denys\source\repos\Poker\Poker.Contracts\bin\Debug\netcoreapp3.1\Poker.Contracts.pdb
+C:\Users\denys\source\repos\Poker\Poker.Contracts\obj\Debug\netcoreapp3.1\Poker.Contracts.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\Poker\Poker.Contracts\obj\Debug\netcoreapp3.1\Poker.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\Poker\Poker.Contracts\obj\Debug\netcoreapp3.1\Poker.Contracts.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\Poker\Poker.Contracts\obj\Debug\netcoreapp3.1\Poker.Contracts.AssemblyInfo.cs
+C:\Users\denys\source\repos\Poker\Poker.Contracts\obj\Debug\netcoreapp3.1\Poker.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\Poker\Poker.Contracts\obj\Debug\netcoreapp3.1\Poker.Contracts.dll
+C:\Users\denys\source\repos\Poker\Poker.Contracts\obj\Debug\netcoreapp3.1\Poker.Contracts.pdb

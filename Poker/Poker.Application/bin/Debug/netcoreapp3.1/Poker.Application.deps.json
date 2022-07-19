@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Poker.Application/1.0.0": {
+        "dependencies": {
+          "Poker.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Poker.Application.dll": {}
+        }
+      },
+      "Poker.Contracts/1.0.0": {
+        "runtime": {
+          "Poker.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poker.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Poker.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

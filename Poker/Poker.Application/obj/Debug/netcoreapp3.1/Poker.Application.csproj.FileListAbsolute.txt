@@ -1,0 +1,13 @@
+C:\Users\denys\source\repos\Poker\Poker.Application\bin\Debug\netcoreapp3.1\Poker.Application.deps.json
+C:\Users\denys\source\repos\Poker\Poker.Application\bin\Debug\netcoreapp3.1\Poker.Application.dll
+C:\Users\denys\source\repos\Poker\Poker.Application\bin\Debug\netcoreapp3.1\Poker.Application.pdb
+C:\Users\denys\source\repos\Poker\Poker.Application\bin\Debug\netcoreapp3.1\Poker.Contracts.dll
+C:\Users\denys\source\repos\Poker\Poker.Application\bin\Debug\netcoreapp3.1\Poker.Contracts.pdb
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.AssemblyInfo.cs
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.csproj.CopyComplete
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.dll
+C:\Users\denys\source\repos\Poker\Poker.Application\obj\Debug\netcoreapp3.1\Poker.Application.pdb
